@@ -344,7 +344,7 @@ const _0x33d833 = async (_0x1bf084, _0x5525e4, _0x8f41c0 = 5) => {
     _0x3a32a9 = async (_0x4ae550, _0x55f113, _0x244343, _0x7c401d = 5) => {
     },
     _0x55f03b = async (_0x521e38, _0x17d974, _0x1d0c11 = 5) => {
-        console["log"]("饿了么牛逼版\n");
+        console["log"]("饿了么SVIP\n");
     };
 
 async function _0x13509e(_0x272cb0) {
@@ -385,7 +385,7 @@ function _0x5a5a781(_0x10377c) {
 }
 
 function _0x51769c(_0xfd158b = "elmck") {
-    console["log"]("版本：内部9.9.9\n");
+    console["log"]("最贵的SVIP\n");
     let _0x48a24a = [];
     let _0x53f2af = process["env"][_0xfd158b];
     if (_0x53f2af) {
